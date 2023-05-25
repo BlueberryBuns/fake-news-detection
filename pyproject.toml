@@ -31,7 +31,7 @@ dependencies = [
   "scikit-learn==1.2.2",
   "stream-learn==0.8.24",
   "ipdb==0.13.13",
-  "tqdm~=4.0.0",
+  "tqdm==4.65.0",
   "pyarrow==12.0.0"
 ]
 
